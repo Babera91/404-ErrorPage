@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;1,900&display=swap');
+body{
+    background-image: url(../img/bild.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: contain;
+  
+}
+section{
+   text-align: center;
+   margin-top: 10%;
+}
+   
+section h1{
+    font-size: 300px;
+    margin:0 auto;
+    font-family: 'Roboto', sans-serif;
+    color: #565c736b;
+}
+   
+    
+
+section h2{
+    font-size: 50px;
+    padding-bottom: 2%;
+    margin:0 auto;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+   
+    
+    
+}
+section p:first-of-type{
+    margin:0 auto;
+    padding-bottom: 4%;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+section p:last-child{
+    display: inline;
+    border: solid;
+    margin:0 auto;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    padding: 5px;
+    
+    }
